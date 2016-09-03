@@ -39,7 +39,7 @@ public class two_sum_variations {
 		System.out.println("\nBetter_Given_Sum - " + sum);
 		HashSet<Integer> map = new HashSet<Integer>();
 		//insert all elements into hashmap, O(n)
-		for(int i = 0; i < arry.length-1; i++){
+		for(int i = 0; i < arry.length; i++){
 			int temp = sum - arry[i];
 			if(temp > 0 && map.contains(temp)){
 				System.out.println("Pair with given sum " +
@@ -82,7 +82,7 @@ public class two_sum_variations {
 		}
 		//determine every possible sum
 		HashMap<Integer, List<Integer>> map = new HashMap<Integer, List<Integer>>();
-		for(int i = 0; i < arry.length-1; i++){
+		for(int i = 0; i < arry.length; i++){
 			for(int k = 0; k < arry.length; k++){
 				if( i != k){
 					int sum = arry[i] + arry[k];
@@ -107,7 +107,7 @@ public class two_sum_variations {
 		
 		//find if the element exists in the hashmap
 			//if it does, print out the elements making it up
-		for(int i = 0; i < arry.length-1; i++){
+		for(int i = 0; i < arry.length; i++){
 			if(map.containsKey(arry[i])){
 				List<Integer> indices = map.get(arry[i]);
 				System.out.print(arry[i] + " = ");
