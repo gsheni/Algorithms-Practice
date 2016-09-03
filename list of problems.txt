@@ -1,0 +1,42 @@
+- Design a function to find the sqrt of a number, exact to 0.001 - DONE
+- Write a function to find all primes between 1 to N – DONE
+- How to find min and second min in an array  - DONE 
+- Implement queue with array
+- Implement a Queue using a Stack 
+- Use multiple stacks to get a queue  
+- Design a queue with a getMin() function
+- Describe how SQL indexes are made
+- Get the kth element of two sorted array. Can you do better than linear time complexity?  
+- LCA of tree with parent links
+- Implementing a generic tree and find the shortest  path between two nodes     
+- array structure in memory and how to choose different data structures.
+- A code to reverse a link list.
+- The different between C and C++  
+- Code to check little vs big endian
+- How do you verify if a given tree is a binary search tree.  
+- Add and Delete an element from a binary search tree
+- Given an array of positive and negative numbers, most efficient way to cluster all negative numbers on the left and all positives on the right.
+- Given a map with binary values 0 and 1, how can you find the largest cluster of 1?
+- Given a binary tree, print out the nodes by levels.
+- Implement a string to integer function.  
+- find the same element in two arrays 
+- Given a binary tree, verify that it's a BST  
+- Validate a BST; from post, pre and in order traversals make the tree given, solve for the sqrt, which is the best time to buy and sell a stock  
+- Given an array with the elements of the nodes of a binary tree with random order(each node has filed of children but no parent), given a node in the array, find all its parent.
+- Reverse a string
+- Check whether a given string has valid parentheses. For example, { needs to match }, ( matches ) and [ matches ]. And you have to check whether they are in the right order. The follow-up question is to check the valid string again but with given pairs. Say the pairs are "ab cd". That means 'a' needs to match 'b' and 'c' needs tomatch 'd'.  
+- designing a data structure that stores counts of words in a text file as well as every line.  
+- As LRU in leetcode, design data structure to implement the functions. Get prices of company as time. The prices of companies may change any time. Get top 5 company who have more price than others.
+- Develop a heap class that supports max()  
+- How would you know if a double has four decimal places?
+- How do you know there exist two numbers in a given array which add up to be a certain number? (given: array, target sum, return: true or false)  
+- Perform and print level order traversal of a binary tree
+- Add 2 numbers whose digits are stored in a linked list, i.e. add(1->2->3->4, 4->5->6->7) is equivalent to adding 1234 + 4567.
+- Print level at which node is in a binary tree
+- Iterative Fibonacci  
+- What is the main difference between C and Java?
+- Design way of finding out whether a linked list is circular  
+- What is a hash table and how could you implement one?
+- Given a string of numbers, add "," between every thousand. Like given "1000000", get "1,000,000."
+- Check if an integer is a palindrome  
+- Check if log(x) to base 2 is a natural number.   
